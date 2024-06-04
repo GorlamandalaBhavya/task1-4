@@ -1,1 +1,1 @@
-"This is the master file" 
+"This is the edited master file on private branch" 
